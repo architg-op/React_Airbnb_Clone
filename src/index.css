@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.airbnb_Title {
+  padding-left: 20px;
+  color: red;
+}
+
+.airbnb_Logo {
+  height: 40px;
+  width: 40px;
+}
+
+.airbnb_imageGrid {
+  padding-top: 30px;
+  height: 350px;
+}
