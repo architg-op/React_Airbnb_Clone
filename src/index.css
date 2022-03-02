@@ -18,11 +18,25 @@ code {
 }
 
 .airbnb_Logo {
-  height: 40px;
-  width: 40px;
+  height: 50px;
+  width: 150px;
+  padding-left: 20px;
 }
 
 .airbnb_imageGrid {
   padding-top: 30px;
   height: 350px;
+}
+
+.staticBox {
+  padding-top: 25px;
+  width: 330px;
+  text-align: left;
+  padding-left: 20px;
+}
+
+.card_MainImage {
+  height: 280px;
+  display: flex;
+  padding: 20px;
 }

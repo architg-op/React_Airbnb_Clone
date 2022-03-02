@@ -5,7 +5,7 @@ export default function Navbar() {
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
             <span className="airbnb_Title">
                 <a className="navbar-brand" href="airbnb.com">
-                    <img className="airbnb_Logo" src={airbnb_logo} alt="airbnb Logo"/>airbnb
+                    <img className="airbnb_Logo" src={airbnb_logo} alt="airbnb Logo"/>
                 </a>
             </span>
         </nav>
